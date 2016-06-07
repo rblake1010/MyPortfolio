@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {-moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; -webkit-text-size-adjust: none; margin: 0px; padding: 0px}
+
+.portraits-nerd, .portraits-creative, .portraits, .portraits-james, .portraits-passion { display:none;}
+.notshow {display:block; margin-top:4px; margin-bottom:7px;  position:relative;}
+.aboutpage img.clouds { visibility:hidden;}
+.notshow{}
+
+.aboutpage { width:0px; height:972px; background-color:#0E587F; position:absolute; top:286px; display:none;  }
+.workpage { width:0px; height:1600px; background-color:#004f76; position:absolute; top:286px; display:none;  }
+.contactpage { width:0px; height:1000px; background-color:#00466c; position:absolute; top:286px; display:none; }
+.creditspage { width:0px; height:768px; background-color:#003e63; position:absolute; top:286px; display:none; }
+.thankspage { width:0px; height:768px; background-color:#004f76; position:absolute; top:286px; display:none; }
+.resumepage { width:0px; height:1100px; background-color:#00466c; position:absolute; top:286px; display:none; }
